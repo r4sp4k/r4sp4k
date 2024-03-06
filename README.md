@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r4sp4k
 - 👀 I’m interested in linux / python / italian culture / bjj / cooking / running / workout / art
-- 🌱 I’m currently learning python and devops tools
+- 🌱 I’m currently learning python
 - 📫 How to reach me https://www.linkedin.com/in/yourlinuxguy/
 - ⚡ Fun fact: I'm calm af
 
